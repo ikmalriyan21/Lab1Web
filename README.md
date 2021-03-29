@@ -6,4 +6,4 @@
 
 # Langkah-langkah Praktikum
 1. Membuat paragraf
-Disini, saya akan membuat paragraf HTML dasar. Dan memasukkan kata (body) dan tag (p) di dalam codingan tersebut
+Disini, saya akan membuat paragraf HTML dasar. Dan memasukkan kata ("body") dan tag ("p") di dalam codingan tersebut
