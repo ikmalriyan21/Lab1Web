@@ -74,3 +74,32 @@ Codingan untuk memformat teks dan menambahkan gambar
 
 Hasil output dari format teks, menambahkan gambar dan hasil dari semua hasil yang tadi di kerjakan di atas tersebut
 ![input](https://github.com/ikmalriyan21/Lab1Web/blob/1c5712ec025c74fef5cde3e8eff7720ee8e60c81/Gambar/hasil.png)
+
+
+
+Jawab pertanyaan berikut
+1. Lakukan perubahan pada kode sesuai dengan keinginan anda, amati perubahannya adakah 
+   error ketika terjadi kesalahan penulisan tag?
+2. Apa perbedaan dari tag <p> dengan tag <br>, berikan penjelasannya!
+3. Apa perbedaan atribut title dan alt pada tag <img>, berikan penjelasannya!
+4. Untuk mengatur ukuran gambar, digunakan atribut width dan height. Agar tampilan gambar 
+   proporsional sebaiknya kedua atribut tersebut diisi semua atau tidak? Berikan penjelasannya!
+5. Pada link tambahkan atribut target dengan nilai atribut bervariasi ( _blank, _self, _top, 
+   _parent ), apa yang terjadi pada masing-masing nilai antribut tersebut?
+ 
+ Jawaban
+1. Iya ada
+2. Tag <p> ialah paragraf yang merupakan kumpulan dari beberapa kalimat
+   Tag <br> ialah kalimat yang berpindah ke baris selanjutnya
+3. Title merupakan untuk menuliskan judul gambar tersebut
+   Alt merupakan deskripsi tentang gambar tersebut
+4. Tidak. Kalau di masukan width dan hight secara bersamaan, maka angkanya harus
+   seimbang. Kalau angkanya tidak seimbang, maka hasil gambarnya jadi tidak beraturan
+5. _self = untuk membuka link di frame link itu berada. ini merupakan setelan dasar link jika pada elemen link tidak diberi atribut target
+   _blank = untuk membuka link di tab baru
+   _top = untuk membuka link di frame paling atas (paling luar).
+          secara simpel-nya :
+          jika di website(1) di dalamnya ada website(2) lalu di website(2) di dalamnya ada website (3) lalu di website (3) ini ada link dan kita klik, maka link akan terbuka di            website(1)
+  _parent = untuk membuka link di frame yang satu tingkat di atas frame link tersebut berada.
+            secara simple-nya begini :
+            jika di website(1) di dalamnya ada website(2) lalu di website(2) ini ada link dan kita klik, maka link akan terbuka di website(1)
