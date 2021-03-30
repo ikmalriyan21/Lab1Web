@@ -6,6 +6,7 @@
 
 # Langkah-langkah Praktikum
 1. Membuat Paragraf dan Judul
+
 Disini, saya akan membuat paragraf dan judul HTML dasar. Dan memasukkan kata ("body") dan tag ("p") di dalam codingan tersebut
 
 
@@ -33,7 +34,7 @@ Output dari hasil membuat judul
 
 
 
-Codingan untuk membuat paragraf menggunakan align="center" dan align "right"
+Codingan untuk membuat paragraf menggunakan align="center" dan align="right"
 ![input](https://github.com/ikmalriyan21/Lab1Web/blob/1ea2f17b77e8a819d6313d7f1978123935a1d1f3/Gambar/paragraf%201.png)
 
 
@@ -43,3 +44,10 @@ Codingan untuk membuat paragraf menggunakan align="center" dan align "right"
 
 Hasil dari outputnya
 ![input](https://github.com/ikmalriyan21/Lab1Web/blob/136adec9f0e8e19fe5a9d66bcc9df4d8f9b11350/Gambar/contoh%20paragraf%201.png)
+
+
+
+
+
+Codingan untuk membuat paragraf menggunakan align="justify" dan align="left"
+![input](https://github.com/ikmalriyan21/Lab1Web/blob/9a260560ef8f2320000ec9e1cfbcf4124d5d3a3b/Gambar/paragraf%202.png)
