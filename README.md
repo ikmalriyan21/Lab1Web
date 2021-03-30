@@ -40,5 +40,6 @@ Codingan untuk membuat paragraf menggunakan align="center" dan align "right"
 
 
 
+
 Hasil dari outputnya
 ![input](https://github.com/ikmalriyan21/Lab1Web/blob/136adec9f0e8e19fe5a9d66bcc9df4d8f9b11350/Gambar/contoh%20paragraf%201.png)
