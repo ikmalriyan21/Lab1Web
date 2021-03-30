@@ -35,3 +35,10 @@ Output dari hasil membuat judul
 
 Codingan untuk membuat paragraf menggunakan align="center" dan align "right"
 ![input](https://github.com/ikmalriyan21/Lab1Web/blob/1ea2f17b77e8a819d6313d7f1978123935a1d1f3/Gambar/paragraf%201.png)
+
+
+
+
+
+Hasil dari outputnya
+![input](https://github.com/ikmalriyan21/Lab1Web/blob/136adec9f0e8e19fe5a9d66bcc9df4d8f9b11350/Gambar/contoh%20paragraf%201.png)
