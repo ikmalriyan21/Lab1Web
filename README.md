@@ -18,4 +18,9 @@ Disini, saya akan membuat paragraf dan judul HTML dasar. Dan memasukkan kata ("b
 
 
 
-![input](
+![input](https://github.com/ikmalriyan21/Lab1Web/blob/2426dddc2dd2fc6f2f36cb3dcf2375086f3089d9/Gambar/coding%20judul.png)
+
+
+
+
+
