@@ -51,3 +51,10 @@ Hasil dari outputnya
 
 Codingan untuk membuat paragraf menggunakan align="justify" dan align="left"
 ![input](https://github.com/ikmalriyan21/Lab1Web/blob/9a260560ef8f2320000ec9e1cfbcf4124d5d3a3b/Gambar/paragraf%202.png)
+
+
+
+
+
+Hasil dari outputnya
+![input](https://github.com/ikmalriyan21/Lab1Web/blob/9fea46f250ca06145e6670f989905e38a8f758fe/Gambar/contoh%20paragraf%202.png)
