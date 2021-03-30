@@ -67,3 +67,10 @@ Hasil dari outputnya
 
 Codingan untuk memformat teks dan menambahkan gambar
 ![input](https://github.com/ikmalriyan21/Lab1Web/blob/492525fbcbbd0c12bae99d5e3fe32f6c1ed36f1b/Gambar/coding%20hasil.png)
+
+
+
+
+
+Hasil output dari format teks, menambahkan gambar dan hasil dari semua hasil yang tadi di kerjakan di atas tersebut
+![input](https://github.com/ikmalriyan21/Lab1Web/blob/1c5712ec025c74fef5cde3e8eff7720ee8e60c81/Gambar/hasil.png)
