@@ -5,7 +5,7 @@
 2. Microsoft Edge
 
 # Langkah-langkah Praktikum
-1. Membuat Paragraf dan Judul
+# 1. Membuat Paragraf dan Judul
 
 Disini, saya akan membuat paragraf dan judul HTML dasar. Dan memasukkan kata ("body") dan tag ("p") di dalam codingan tersebut
 
@@ -63,6 +63,7 @@ Hasil dari outputnya
 
 
 
-2. Melakukan Format Teks dan Menambahkan gambar pada laman HTML
+# 2. Melakukan Format Teks dan Menambahkan gambar pada laman HTML
+
 Codingan untuk memformat teks dan menambahkan gambar
 ![input](https://github.com/ikmalriyan21/Lab1Web/blob/492525fbcbbd0c12bae99d5e3fe32f6c1ed36f1b/Gambar/coding%20hasil.png)
