@@ -5,7 +5,7 @@
 2. Microsoft Edge
 
 # Langkah-langkah Praktikum
-1. Membuat paragraf
+1. Membuat Paragraf dan Judul
 Disini, saya akan membuat paragraf dan judul HTML dasar. Dan memasukkan kata ("body") dan tag ("p") di dalam codingan tersebut
 
 
@@ -18,7 +18,7 @@ Disini, saya akan membuat paragraf dan judul HTML dasar. Dan memasukkan kata ("b
 
 
 
-Codingan unutk membuat judul
+Codingan untuk membuat judul
 ![input](https://github.com/ikmalriyan21/Lab1Web/blob/2426dddc2dd2fc6f2f36cb3dcf2375086f3089d9/Gambar/coding%20judul.png)
 
 
@@ -28,3 +28,10 @@ Codingan unutk membuat judul
 
 Output dari hasil membuat judul
 ![input](https://github.com/ikmalriyan21/Lab1Web/blob/b8ce6a9a9331c965c9e024479e32eb15b9b3b9b1/Gambar/contoh%20judul.png)
+
+
+
+
+
+Codingan untuk membuat paragraf menggunakan align="center" dan align "right"
+![input](https://github.com/ikmalriyan21/Lab1Web/blob/1ea2f17b77e8a819d6313d7f1978123935a1d1f3/Gambar/paragraf%201.png)
