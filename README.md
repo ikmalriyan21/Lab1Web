@@ -58,3 +58,11 @@ Codingan untuk membuat paragraf menggunakan align="justify" dan align="left"
 
 Hasil dari outputnya
 ![input](https://github.com/ikmalriyan21/Lab1Web/blob/9fea46f250ca06145e6670f989905e38a8f758fe/Gambar/contoh%20paragraf%202.png)
+
+
+
+
+
+2. Melakukan Format Teks dan Menambahkan gambar pada laman HTML
+Codingan untuk memformat teks dan menambahkan gambar
+![input](https://github.com/ikmalriyan21/Lab1Web/blob/492525fbcbbd0c12bae99d5e3fe32f6c1ed36f1b/Gambar/coding%20hasil.png)
